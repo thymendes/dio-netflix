@@ -39,6 +39,7 @@ header nav a{
     text-decoration: none;
     color: #aaa;
     margin-right: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 header nav a:hover {
